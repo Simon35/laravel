@@ -74,7 +74,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <router-link to="/dashboard" class="nav-link">
                 <i class="nav-icon fas fa-tachometer-alt blue"></i>
                 <p>
-                Dashboard
+                Tableau de bord
 
                 </p>
             </router-link>
